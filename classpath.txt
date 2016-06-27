@@ -1,0 +1,1 @@
+/home/miyuru/projects/pamstream/S4/s4-LinearRoad/build/classes/main:/home/miyuru/software/apache-s4-0.6.0/lib/*:/home/miyuru/software/apache-s4-0.6.0/subprojects/s4-tools/build/install/s4-tools/lib/*
